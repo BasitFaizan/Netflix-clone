@@ -1,6 +1,6 @@
 let apiDiv = document.querySelector('.apiDiv');
 let apiDiv1 = document.querySelector('.apiDiv1');
-let api_keys = 'api_key=ab46d312c1c140ff9672df0dac17fe12';
+let api_keys = 'api_key=661ad9a76a4f96b8c106da64250fee1e';
 let base_url = 'https://api.themoviedb.org/3';
 let url = base_url + '/discover/movie?sort_by=popularity.desc&' + api_keys;
 let ImgUrl = 'https://image.tmdb.org/t/p/w500'
